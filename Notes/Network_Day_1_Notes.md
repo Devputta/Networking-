@@ -39,8 +39,7 @@ names, from top to bottom, are:
 7.  Physical
 
 A simple initials-based reminder is **A--P--S--T--N--D--P**. The
-mnemonic in the handwriting appears to be "All People Should Try New ...
-Pizza"; the word for the Data Link layer is not fully clear.
+mnemonic in the handwriting appears to be "All People Should Try New Dominos Pizza"; the word for the Data Link layer is not fully clear.
 
 ------------------------------------------------------------------------
 
